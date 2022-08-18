@@ -18,6 +18,18 @@ This Project consists of a simple PowerShell script that walks the user through 
 
 <h2>Project walk-through:</h2>
 
+<h4>Description</h4>
+This is a summary of all we need to do for this Project
+- <b>Import the Libraries/</b><br />
+- <b>Import the Data</b><br />
+- <b>VS Code</b><br /> 
+- <b>VS Code</b><br />
+- <b>VS Code</b><br />
+- <b>VS Code</b><br />
+- <b>VS Code</b><br />
+<br />
+
+<br />
 <p align="center">
 Installing Python pyqrcode library: <br/>
 <img src="https://imgur.com/CXrJyAi.png" height="80%" width="80%" alt="Installing python pyqrcode library"/>
