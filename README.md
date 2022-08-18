@@ -17,7 +17,7 @@ This Project consists of a simple PowerShell script that walks the user through 
 <h4>Description</h4>
 This is a summary of all we need to do for this Project<br />
 - <b>Import the Libraries</b><br />
-- <b>Import the Data</b><br />
+- <b>Import the Dataset</b><br />
 - <b>Visualize the Dataset</b><br /> 
 - <b>Create Testing and Training Dataset</b><br />
 - <b>Splitting the Dataset</b><br />
@@ -35,7 +35,7 @@ Import the Libraries: <br/>
 <br />
 
  <p align="center">
-Import the Libraries: <br/>
+Import the Dataset: <br/>
 <img src="https://imgur.com/CXrJyAi.png" height="80%" width="80%" alt="Installing python pyqrcode library"/>
 <br />
 
@@ -45,30 +45,35 @@ Import the Libraries: <br/>
 <br />
    
   <p align="center">
-Import the Libraries: <br/>
+Visualize the Dataset: <br/>
 <img src="https://imgur.com/CXrJyAi.png" height="80%" width="80%" alt="Installing python pyqrcode library"/>
 <br />
    
   <p align="center">
-Import the Libraries: <br/>
+Create Testing and Training Dataset: <br/>
 <img src="https://imgur.com/CXrJyAi.png" height="80%" width="80%" alt="Installing python pyqrcode library"/>
 <br />
 
    <p align="center">
-Import the Libraries: <br/>
+Splitting the Dataset: <br/>
 <img src="https://imgur.com/CXrJyAi.png" height="80%" width="80%" alt="Installing python pyqrcode library"/>
 <br />
 
 <p align="center">
-Import the Libraries: <br/>
+Train the Dataset: <br/>
 <img src="https://imgur.com/CXrJyAi.png" height="80%" width="80%" alt="Installing python pyqrcode library"/>
 <br />
  
 <p align="center">
-Import the Libraries: <br/>
+Print the Coefficient: <br/>
 <img src="https://imgur.com/CXrJyAi.png" height="80%" width="80%" alt="Installing python pyqrcode library"/>
 <br />
 
+<p align="center">
+Generate Prediction Dataset: <br/>
+<img src="https://imgur.com/CXrJyAi.png" height="80%" width="80%" alt="Installing python pyqrcode library"/>
+<br />
+ 
 <p align="center">
 Visualize the Dataset: <br/>
 <img src="https://imgur.com/CXrJyAi.png" height="80%" width="80%" alt="Installing python pyqrcode library"/>
