@@ -9,20 +9,18 @@ This Project consists of a simple PowerShell script that walks the user through 
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>VS Code</b> 
-- <b>Windows Command Prompt</b>
-
-<h2>Environments Used </h2>
-
-- <b>Windows 10</b>
+- <b>Python</b> 
+- <b>Jupyter Notebook</b>
 
 <h2>Project walk-through:</h2>
 
 <h4>Description</h4>
 This is a summary of all we need to do for this Project<br />
-- <b>Import the Libraries/</b><br />
+- <b>Import the Libraries</b><br />
 - <b>Import the Data</b><br />
 - <b>VS Code</b><br /> 
+- <b>VS Code</b><br />
+- <b>VS Code</b><br />
 - <b>VS Code</b><br />
 - <b>VS Code</b><br />
 - <b>VS Code</b><br />
