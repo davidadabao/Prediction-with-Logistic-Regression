@@ -30,10 +30,50 @@ This is a summary of all we need to do for this Project<br />
 
 <br />
 <p align="center">
-Installing Python pyqrcode library: <br/>
+Import the Libraries: <br/>
 <img src="https://imgur.com/CXrJyAi.png" height="80%" width="80%" alt="Installing python pyqrcode library"/>
 <br />
 
+ <p align="center">
+Import the Libraries: <br/>
+<img src="https://imgur.com/CXrJyAi.png" height="80%" width="80%" alt="Installing python pyqrcode library"/>
+<br />
+
+  <p align="center">
+Import the Libraries: <br/>
+<img src="https://imgur.com/CXrJyAi.png" height="80%" width="80%" alt="Installing python pyqrcode library"/>
+<br />
+   
+  <p align="center">
+Import the Libraries: <br/>
+<img src="https://imgur.com/CXrJyAi.png" height="80%" width="80%" alt="Installing python pyqrcode library"/>
+<br />
+   
+  <p align="center">
+Import the Libraries: <br/>
+<img src="https://imgur.com/CXrJyAi.png" height="80%" width="80%" alt="Installing python pyqrcode library"/>
+<br />
+
+   <p align="center">
+Import the Libraries: <br/>
+<img src="https://imgur.com/CXrJyAi.png" height="80%" width="80%" alt="Installing python pyqrcode library"/>
+<br />
+
+<p align="center">
+Import the Libraries: <br/>
+<img src="https://imgur.com/CXrJyAi.png" height="80%" width="80%" alt="Installing python pyqrcode library"/>
+<br />
+ 
+<p align="center">
+Import the Libraries: <br/>
+<img src="https://imgur.com/CXrJyAi.png" height="80%" width="80%" alt="Installing python pyqrcode library"/>
+<br />
+
+    <p align="center">
+Import the Libraries: <br/>
+<img src="https://imgur.com/CXrJyAi.png" height="80%" width="80%" alt="Installing python pyqrcode library"/>
+<br />
+     
 <p align="center">
 Installing Python pypng library: <br/>
 <img src="https://imgur.com/Su4donL.png" height="80%" width="80%" alt="Installing python pypng library"/>
