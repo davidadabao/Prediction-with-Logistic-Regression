@@ -18,13 +18,14 @@ This Project consists of a simple PowerShell script that walks the user through 
 This is a summary of all we need to do for this Project<br />
 - <b>Import the Libraries</b><br />
 - <b>Import the Data</b><br />
-- <b>VS Code</b><br /> 
-- <b>VS Code</b><br />
-- <b>VS Code</b><br />
-- <b>VS Code</b><br />
-- <b>VS Code</b><br />
-- <b>VS Code</b><br />
-- <b>VS Code</b><br />
+- <b>Visualize the Dataset</b><br /> 
+- <b>Create Testing and Training Dataset</b><br />
+- <b>Splitting the Dataset</b><br />
+- <b>Train the Dataset</b><br />
+- <b>Print the Coefficient</b><br />
+- <b>Generate Prediction Dataset</b><br />
+- <b>Visualize the Dataset</b><br /> 
+- <b>Test the Model for New Predictions</b><br />
 <br />
 
 <br />
