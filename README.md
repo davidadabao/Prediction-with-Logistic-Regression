@@ -69,13 +69,13 @@ Import the Libraries: <br/>
 <img src="https://imgur.com/CXrJyAi.png" height="80%" width="80%" alt="Installing python pyqrcode library"/>
 <br />
 
-    <p align="center">
-Import the Libraries: <br/>
+<p align="center">
+Visualize the Dataset: <br/>
 <img src="https://imgur.com/CXrJyAi.png" height="80%" width="80%" alt="Installing python pyqrcode library"/>
 <br />
      
 <p align="center">
-Installing Python pypng library: <br/>
+Test the Model for New Predictions: <br/>
 <img src="https://imgur.com/Su4donL.png" height="80%" width="80%" alt="Installing python pypng library"/>
 <br />
 
