@@ -3,7 +3,7 @@
  ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
  ### [Read on Medium](https://youtu.be/7eJexJVCqJo)
 
-<h2>Description</h2>
+<h2>Description/Problem Statement</h2>
 This Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
 <br />
 
@@ -19,7 +19,7 @@ This Project consists of a simple PowerShell script that walks the user through 
 <h2>Project walk-through:</h2>
 
 <h4>Description</h4>
-This is a summary of all we need to do for this Project
+This is a summary of all we need to do for this Project<br />
 - <b>Import the Libraries/</b><br />
 - <b>Import the Data</b><br />
 - <b>VS Code</b><br /> 
